@@ -5,7 +5,6 @@ namespace BasicSkillsTest
 {
     partial class Program
     {
-
         static void Main(string[] args)
         {
             // TEST RULES:  If you get stuck you may use Google to help you.  You are allowed
