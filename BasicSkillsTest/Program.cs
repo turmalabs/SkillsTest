@@ -9,7 +9,7 @@ namespace BasicSkillsTest
         static void Main(string[] args)
         {
             // TEST RULES:  If you get stuck you may use Google to help you.  You are allowed
-            // to use inbuilt .net framework methods to achieve results.  If a particular test
+            // to use any .net framework namespace and methods to achieve results.  If a particular test
             // gives you issues move onto the next and come back to it at the end.
             
             Console.WriteLine("Test 1: FizzBuzz");
