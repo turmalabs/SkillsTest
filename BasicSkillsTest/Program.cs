@@ -7,10 +7,16 @@ namespace BasicSkillsTest
     {
         static void Main(string[] args)
         {
+            RunAllTests();
+            Console.ReadLine();
+        }
+
+        public static void RunAllTests()
+        {
             // TEST RULES:  If you get stuck you may use Google to help you.  You are allowed
             // to use any .net framework namespace and methods to achieve results.  If a particular test
             // gives you issues move onto the next and come back to it at the end.
-            
+
             Console.WriteLine("Test 1: FizzBuzz");
 
             // Write a program that prints the numbers from 1 to 100. But for multiples of three
@@ -62,9 +68,6 @@ namespace BasicSkillsTest
             Console.WriteLine("Test 7: Inheritance");
             // For this test you must complete the 2 classes in Test7.cs following the instructions in comments.
             Test7();
-
-
-
         }
 
 
