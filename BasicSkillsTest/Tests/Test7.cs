@@ -29,11 +29,11 @@ namespace BasicSkillsTest
             //input.Add('0');
             //Console.WriteLine(input.GetValue()); //expected output 10
 
-            //TextInput input = new TextInput();
-            //input.Add('1');
-            //input.Add('a');
-            //input.Add('0');
-            //Console.WriteLine(input.GetValue()); //expected outut 1a0
+            //TextInput input2 = new TextInput();
+            //input2.Add('1');
+            //input2.Add('a');
+            //input2.Add('0');
+            //Console.WriteLine(input2.GetValue()); //expected outut 1a0
         }
     }
 
