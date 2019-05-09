@@ -14,8 +14,8 @@ namespace BasicSkillsTest
         public static void RunAllTests()
         {
             // TEST RULES:  If you get stuck you may use Google to help you.  You are allowed
-            // to use any .net framework namespace and methods to achieve results.  If a particular test
-            // gives you issues move onto the next and come back to it at the end.
+            // to use any .net framework namespace (including LINQ) and methods to achieve results.
+            // If a particular test gives you issues move onto the next and come back to it at the end.
 
             Console.WriteLine("Test 1: FizzBuzz");
 
